@@ -4,6 +4,10 @@ import java.util.Scanner;
 
 public class Main {
 
+    // TODO Få det til at virke med decimaltal
+    // TODO Få det til ikke at crashe med en runtime exception, når man ved en fejl indtaster x
+    // TODO Få det til at stoppe når man skriver stop
+
     public static void main(String[] args) {
         System.out.println("Hej med dig!");
         Scanner scanner = new Scanner(System.in);

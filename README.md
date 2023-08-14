@@ -14,3 +14,4 @@ Indtast endnu et tal: ...
 
 Ekstraopgave: Den skal holde op med at indlæse tal, når man indtaster Q eller q. Andre bogstaver skal give fejlbesked, men programmet skal fortsætte.
 
+

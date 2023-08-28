@@ -10,7 +10,7 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println("Hej med dig!");
-        Scanner scanner = new Scanner(System.in);
+        Scanner scanner = new Scanner(System.in);    
         System.out.print("Indtast et tal: ");
         int x = scanner.nextInt();
         System.out.print("Indtast endnu et tal: ");

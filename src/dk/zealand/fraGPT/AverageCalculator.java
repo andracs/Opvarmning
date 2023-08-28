@@ -19,7 +19,7 @@
  */
 
 
-package com.company.fraGPT;
+package dk.zealand.fraGPT;
 
 class AverageCalculator {
     private int total = 0;

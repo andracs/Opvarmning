@@ -1,4 +1,4 @@
-package com.company.fraGPT;
+package dk.zealand.fraGPT;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

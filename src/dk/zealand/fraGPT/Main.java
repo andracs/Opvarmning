@@ -1,4 +1,4 @@
-package com.company.fraGPT;
+package dk.zealand.fraGPT;
 
 import java.util.Scanner;
 

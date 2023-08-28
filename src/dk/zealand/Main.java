@@ -1,4 +1,4 @@
-package com.company;
+package dk.zealand;
 
 import java.util.Scanner;
 
